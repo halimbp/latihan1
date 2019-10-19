@@ -24,7 +24,7 @@
 9.	Commit (menyimpan perubahan ke database )
 ![image](https://user-images.githubusercontent.com/56398829/67138259-b9d96c80-f26a-11e9-9c58-5bb6ee4ec06c.png)
 
-10. membuat repository server
+10. membuat repository server 
 ![image](https://user-images.githubusercontent.com/56398829/67138285-1b99d680-f26b-11e9-8f86-8f684bafc9ed.png)
 
 11.	Menambahkan remote repository
